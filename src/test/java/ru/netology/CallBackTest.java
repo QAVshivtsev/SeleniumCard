@@ -21,7 +21,6 @@ public class CallBackTest {
     @BeforeAll
     static void setUpAll() {
 
-        WebDriverManager.chromedriver().setup();
     }
 
     @BeforeEach
